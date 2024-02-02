@@ -23,7 +23,6 @@ body {
   border-radius: 16px;
 }
 #bubbles {
-  /* height: 100vh; */
   position: absolute;
   z-index: -1;
   background: #477ab9;
